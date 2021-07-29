@@ -16,7 +16,7 @@ After that we uploaded the data to Kepler map and now you can use it easily and 
 
 ## How to use it
 1. open https://kepler.gl/
-2. click 'add layer' button at upper left side of the screen
+2. click 'get started' button for adding new layer
 3. drag 'data.geojson' and load it
 4. All set - we’re ready to go :)
 - (If you faced any problems, just take a look on the video below)
