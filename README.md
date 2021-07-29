@@ -1,4 +1,4 @@
-# topics_in_Digital_Humanities_project
+# Digital_Humanities_project
 
 
 ## Working Process
